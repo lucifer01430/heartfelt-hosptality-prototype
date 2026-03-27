@@ -79,4 +79,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Harsh Pandey**  
 Web developer 
 [LinkedIn](https://linkedin.com/in/harshpandey0143/) | [GitHub](https://github.com/lucifer01430)</content>
-<parameter name="filePath">d:\Project\Heart-felt-hospitality\HartFelt\README.md
