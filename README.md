@@ -61,14 +61,6 @@ This is a frontend prototype for **Heartfelt Hospitality**, a leading hospitalit
 
 This prototype is designed for demonstration purposes and can be viewed directly in a web browser without additional setup beyond a basic web server.
 
-## Future Improvements
-
-- **Backend Integration**: Implement server-side logic for dynamic content, user authentication, and database interactions.
-- **CMS Integration**: Add a content management system for easy updates to pages and content.
-- **Advanced Features**: Include booking systems, user dashboards, and API integrations.
-- **Performance Optimization**: Implement lazy loading, minification, and caching for production deployment.
-- **Accessibility**: Enhance WCAG compliance and screen reader support.
-- **Testing**: Add comprehensive unit and integration tests.
 
 ## License
 
